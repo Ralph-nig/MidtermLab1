@@ -1,2 +1,2 @@
 # MidtermLab1
-This is my midterm lab project for Elective 03.
+This is my midterm lab activity 1 for Elective 03.
